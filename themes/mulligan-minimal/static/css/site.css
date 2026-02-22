@@ -77,14 +77,14 @@ body {
 
 .hero-row {
   display: grid;
-  grid-template-columns: 1fr 140px;
+  grid-template-columns: 1fr 110px;
   gap: 18px;
   align-items: center;
 }
 
 .headshot {
-  width: 140px;
-  height: 140px;
+  width: 110px;
+  height: 110px;
   border-radius: 16px;
   object-fit: cover;
   border: 1px solid #eadfce;
@@ -92,8 +92,8 @@ body {
 }
 
 .headshot-inline {
-  width: 120px;
-  height: 120px;
+  width: 96px;
+  height: 96px;
   border-radius: 12px;
   object-fit: cover;
   border: 1px solid #eadfce;
@@ -152,6 +152,48 @@ body {
 
 .btn:hover {
   background: #973726;
+}
+
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+  margin: 14px 0;
+}
+
+.sponsor-card {
+  background: #fffdf7;
+  border: 1px solid #efe4d2;
+  border-radius: 12px;
+  padding: 14px;
+}
+
+.sponsor-card h3 {
+  margin: 0 0 6px 0;
+  font-size: 1rem;
+}
+
+.sponsor-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.pub-figure {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 12px;
+  align-items: center;
+  margin: 12px 0;
+}
+
+.pub-figure img {
+  width: 120px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #e6dccb;
+  background: #fff;
 }
 
 .post h1, .home h1, .post-list h1 {

@@ -2,10 +2,9 @@
 title: "Briefing Pack"
 ---
 
-I can provide a concise briefing pack with:
-- 3–5 core findings
-- Key figures
-- Reproducibility notes
+A short briefing pack is available as a PDF.
 
-If you want it, email me and I’ll send the latest version.
+- Download: /briefing-pack.pdf
+
+If you want the latest update or a custom version for your team, email me.
 

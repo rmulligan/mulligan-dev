@@ -23,6 +23,11 @@ Your support helps sustain experiments, verification, and open reporting.
   </div>
 </div>
 
+## How funds are used
+- Compute and storage for experiments
+- Tooling and reproducibility work
+- Open reporting and writing time
+
 ## GitHub Sponsors
 Support the work here: https://github.com/sponsors/rmulligan
 

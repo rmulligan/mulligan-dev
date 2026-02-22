@@ -37,7 +37,7 @@ If you want to support this work, GitHub Sponsors is the easiest option.
 <div class="button-row">
   <a class="btn" href="https://github.com/sponsors/rmulligan">Sponsor on GitHub</a>
   <a class="btn" href="/sponsor/">Sponsorship details</a>
-  <a class="btn" href="/publications/">Briefing pack</a>
+  <a class="btn" href="/briefing-pack/">Briefing pack</a>
 </div>
 
 If you want to explore a role, the best way to reach me is email.

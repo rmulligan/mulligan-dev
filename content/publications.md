@@ -7,6 +7,7 @@ title: "Publications"
 - Preprint (arXiv pending): https://arxiv.org/abs/2502.xxxxx
 - GitHub repo: https://github.com/rmulligan/lilly-steering
 - Hugging Face artifacts: https://huggingface.co/ryanmulligan
+- Briefing pack: /briefing-pack.pdf
 
 ## Research Highlights
 

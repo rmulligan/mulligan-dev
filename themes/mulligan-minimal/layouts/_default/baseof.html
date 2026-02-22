@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="/css/site.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="site-title" href="/">{{ .Site.Title }}</a>
+      <nav class="site-nav">
+        <a href="/">Home</a>
+        <a href="/posts/">Posts</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <span>{{ .Site.Title }} · {{ now.Year }}</span>
+    </div>
+  </footer>
+</body>
+</html>

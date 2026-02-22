@@ -1,0 +1,5 @@
+name = "mulligan-minimal"
+license = "MIT"
+licenselink = ""
+description = "Minimal theme for mulligan.dev"
+min_version = "0.80.0"

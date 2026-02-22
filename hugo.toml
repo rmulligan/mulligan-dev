@@ -1,0 +1,12 @@
+baseURL = "https://mulligan.dev/"
+languageCode = "en-us"
+title = "Ryan Mulligan"
+theme = "mulligan-minimal"
+
+[params]
+  tagline = "Research and systems notes on interpretability, alignment, and agent infrastructure."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

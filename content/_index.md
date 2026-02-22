@@ -29,7 +29,10 @@ If you work on interpretability, evaluations, or alignment, I’d love feedback 
 
 ## Support and Hiring
 I am open to research sponsorships, collaborations, and hiring conversations.
-If you want to support this work or explore a role, the best way to reach me is email.
+If you want to support this work, GitHub Sponsors is the easiest option:
+https://github.com/sponsors/rmulligan
+
+If you want to explore a role, the best way to reach me is email.
 
 ## Contact
 - Email: ryan@mulligan.dev

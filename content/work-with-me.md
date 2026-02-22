@@ -8,6 +8,9 @@ If you want to support this research, I can offer:
 - Priority access to drafts and evidence bundles
 - A focused collaboration on an evaluation or interpretability question
 
+### GitHub Sponsors
+Support the work here: https://github.com/sponsors/rmulligan
+
 ## Hiring
 I’m open to research engineering, evaluation, and interpretability roles.
 If you want a concise briefing pack or a short technical overview, email is best.

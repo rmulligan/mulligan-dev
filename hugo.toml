@@ -10,3 +10,8 @@ theme = "mulligan-minimal"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

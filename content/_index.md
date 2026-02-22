@@ -12,3 +12,7 @@ If you work on interpretability, evaluations, or alignment, I’d love feedback 
 - Email: ryan@mulligan.dev
 - LinkedIn: https://linkedin.com/in/rmulligan
 
+
+## Subscribe
+- RSS: /index.xml
+

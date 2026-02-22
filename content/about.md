@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+<img class="headshot-inline" src="/img/headshot.jpg" alt="Ryan Mulligan" />
+
 I’m Ryan Mulligan. I build research‑grade systems that make model behavior inspectable and testable.
 My work sits at the intersection of mechanistic interpretability, activation steering, and
 long‑horizon agent infrastructure.

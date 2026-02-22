@@ -75,6 +75,31 @@ body {
   font-size: 1.05rem;
 }
 
+.hero-row {
+  display: grid;
+  grid-template-columns: 1fr 140px;
+  gap: 18px;
+  align-items: center;
+}
+
+.headshot {
+  width: 140px;
+  height: 140px;
+  border-radius: 16px;
+  object-fit: cover;
+  border: 1px solid #eadfce;
+  box-shadow: 0 10px 30px rgba(31, 26, 20, 0.12);
+}
+
+.headshot-inline {
+  width: 120px;
+  height: 120px;
+  border-radius: 12px;
+  object-fit: cover;
+  border: 1px solid #eadfce;
+  box-shadow: 0 8px 20px rgba(31, 26, 20, 0.12);
+}
+
 .badge {
   display: inline-block;
   padding: 6px 10px;
@@ -108,6 +133,25 @@ body {
   margin: 0;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+.button-row {
+  margin-top: 12px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.btn:hover {
+  background: #973726;
 }
 
 .post h1, .home h1, .post-list h1 {

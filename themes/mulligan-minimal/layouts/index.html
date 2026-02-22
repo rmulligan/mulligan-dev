@@ -1,11 +1,16 @@
 {{ define "main" }}
 <section class="home">
   <div class="home-hero">
-    <span class="badge">Research Notes</span>
-    <span class="badge">Interpretability</span>
-    <span class="badge">Alignment</span>
-    <h1>{{ .Site.Title }}</h1>
-    <p>{{ .Site.Params.tagline }}</p>
+    <div class="hero-row">
+      <div>
+        <span class="badge">Research Notes</span>
+        <span class="badge">Interpretability</span>
+        <span class="badge">Alignment</span>
+        <h1>{{ .Site.Title }}</h1>
+        <p>{{ .Site.Params.tagline }}</p>
+      </div>
+      <img class="headshot" src="/img/headshot.jpg" alt="Ryan Mulligan" />
+    </div>
   </div>
   {{ .Content }}
   <h2>Recent Posts</h2>

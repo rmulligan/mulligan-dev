@@ -25,5 +25,5 @@ If you want a concise briefing pack or a short technical overview, email is best
 
 ## Contact
 - Email: ryan@mulligan.dev
-- LinkedIn: https://linkedin.com/in/rmulligan
+- LinkedIn: https://www.linkedin.com/in/rcmulligan
 

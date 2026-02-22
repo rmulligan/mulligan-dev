@@ -50,7 +50,7 @@ If you want to explore a role, the best way to reach me is email.
 
 ## Contact
 - Email: ryan@mulligan.dev
-- LinkedIn: https://linkedin.com/in/rmulligan
+- LinkedIn: https://www.linkedin.com/in/rcmulligan
 
 ## Subscribe
 - RSS: [Subscribe](/index.xml)

@@ -12,5 +12,5 @@ integrity, alignment, and safety.
 ## Links
 - Site: https://mulligan.dev
 - GitHub: https://github.com/rmulligan
-- LinkedIn: https://linkedin.com/in/rmulligan
+- LinkedIn: https://www.linkedin.com/in/rcmulligan
 

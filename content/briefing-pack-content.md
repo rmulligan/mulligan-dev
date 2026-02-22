@@ -26,5 +26,5 @@ for evaluation integrity.
 
 ## Contact
 - Email: ryan@mulligan.dev
-- LinkedIn: https://linkedin.com/in/rmulligan
+- LinkedIn: https://www.linkedin.com/in/rcmulligan
 

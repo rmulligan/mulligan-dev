@@ -1,7 +1,26 @@
 {{ define "main" }}
 <section class="home">
-  <h1>{{ .Site.Title }}</h1>
-  <p>{{ .Site.Params.tagline }}</p>
+  <div class="home-hero">
+    <span class="badge">Research Notes</span>
+    <span class="badge">Interpretability</span>
+    <span class="badge">Alignment</span>
+    <h1>{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.tagline }}</p>
+    <div class="highlight-grid">
+      <div class="highlight-card">
+        <h3>Introspection Gap</h3>
+        <p>Models can act on a state they won’t admit. Framing flips self‑report.</p>
+      </div>
+      <div class="highlight-card">
+        <h3>Scaling Effects</h3>
+        <p>Suppression weakens at 14B vs 8B in baseline self‑report.</p>
+      </div>
+      <div class="highlight-card">
+        <h3>Probe Sensitivity</h3>
+        <p>Probe choice changes the measured self‑report signal.</p>
+      </div>
+    </div>
+  </div>
   <h2>Recent Posts</h2>
   <ul>
     {{ range first 5 (where .Site.RegularPages "Section" "posts") }}

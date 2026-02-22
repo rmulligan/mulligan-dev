@@ -20,6 +20,15 @@ body {
   line-height: 1.65;
 }
 
+a {
+  color: var(--accent-2);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .container {
   max-width: var(--max);
   margin: 0 auto;
@@ -139,6 +148,25 @@ body {
 }
 
 .highlight-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.callout {
+  background: #fffdf7;
+  border: 1px solid #efe4d2;
+  border-radius: 12px;
+  padding: 14px;
+  margin: 14px 0;
+}
+
+.callout h3 {
+  margin: 0 0 6px 0;
+  font-size: 1rem;
+}
+
+.callout p {
   margin: 0;
   color: var(--muted);
   font-size: 0.95rem;

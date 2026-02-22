@@ -42,9 +42,9 @@ Two directions we’re pursuing now:
 ![Scaling comparison (8B vs 14B).](/fig24_suppression_scaling_comparison.png)
 
 ## Links
-- Preprint (arXiv pending)
-- GitHub repo (Lilly)
-- Hugging Face artifacts
+- Publications and briefing pack: /publications/
+- GitHub repo: https://github.com/rmulligan/lilly-steering
+- Hugging Face artifacts: https://huggingface.co/ryanmulligan
 
 If this is relevant to your work, I’d love feedback or pointers to related results.
 

@@ -30,6 +30,11 @@ If you work on interpretability, evaluations, or alignment, I’d love feedback 
   </div>
 </div>
 
+<div class="callout">
+  <h3>New here?</h3>
+  <p>Start with the introspection gap explainer, then the scale effects and probe sensitivity posts.</p>
+</div>
+
 ## Support and Hiring
 I am open to research sponsorships, collaborations, and hiring conversations.
 If you want to support this work, GitHub Sponsors is the easiest option.
@@ -38,6 +43,7 @@ If you want to support this work, GitHub Sponsors is the easiest option.
   <a class="btn" href="https://github.com/sponsors/rmulligan">Sponsor on GitHub</a>
   <a class="btn" href="/sponsor/">Sponsorship details</a>
   <a class="btn" href="/briefing-pack/">Briefing pack</a>
+  <a class="btn" href="/timeline/">Research timeline</a>
 </div>
 
 If you want to explore a role, the best way to reach me is email.
@@ -48,3 +54,4 @@ If you want to explore a role, the best way to reach me is email.
 
 ## Subscribe
 - RSS: [Subscribe](/index.xml)
+

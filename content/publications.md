@@ -35,6 +35,12 @@ title: "Publications"
   </div>
 </div>
 
+<div class="callout">
+  <h3>Want a concise summary?</h3>
+  <p>The briefing pack includes the top findings, figures, and reproducibility notes.</p>
+</div>
+
 ## Sponsor and Hiring
 If you are interested in sponsoring this line of research or discussing a role, please reach out.
 I can provide a short briefing pack with core findings, figures, and reproducibility notes.
+

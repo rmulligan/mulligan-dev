@@ -29,3 +29,8 @@ for safety assessment.
 We’re extending this with controlled steering on 14B to test whether the framing
 bypass is still needed at larger scale.
 
+## Links
+- Publications and briefing pack: /publications/
+- GitHub repo: https://github.com/rmulligan/lilly-steering
+- Hugging Face artifacts: https://huggingface.co/ryanmulligan
+

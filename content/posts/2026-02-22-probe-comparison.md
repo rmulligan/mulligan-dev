@@ -27,3 +27,8 @@ on measurement design. We should treat probe choice as a first‑class methodolo
 We’re using probe‑based measurement to bypass output suppression and get closer to the
 model’s internal state.
 
+## Links
+- Publications and briefing pack: /publications/
+- GitHub repo: https://github.com/rmulligan/lilly-steering
+- Hugging Face artifacts: https://huggingface.co/ryanmulligan
+

@@ -7,7 +7,7 @@ title: "Publications"
 - Preprint (arXiv pending): https://arxiv.org/abs/2502.xxxxx
 - GitHub repo: https://github.com/rmulligan/lilly-steering
 - Hugging Face artifacts: https://huggingface.co/ryanmulligan
-- Briefing pack: /briefing-pack.pdf
+- Briefing pack: [Briefing Pack PDF](/briefing-pack.pdf)
 
 ## Research Highlights
 
@@ -38,4 +38,3 @@ title: "Publications"
 ## Sponsor and Hiring
 If you are interested in sponsoring this line of research or discussing a role, please reach out.
 I can provide a short briefing pack with core findings, figures, and reproducibility notes.
-

@@ -47,5 +47,4 @@ If you want to explore a role, the best way to reach me is email.
 - LinkedIn: https://linkedin.com/in/rmulligan
 
 ## Subscribe
-- RSS: /index.xml
-
+- RSS: [Subscribe](/index.xml)

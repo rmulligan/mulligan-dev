@@ -7,3 +7,8 @@ My current focus is the **introspection gap** — when a model acts on a state i
 
 If you work on interpretability, evaluations, or alignment, I’d love feedback or collaboration.
 
+
+## Contact
+- Email: ryan@mulligan.dev
+- LinkedIn: https://linkedin.com/in/rmulligan
+

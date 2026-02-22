@@ -15,7 +15,7 @@ We compared two probing methods:
 
 ## The result
 The 8D grid systematically underestimates self‑report compared to single‑emotion probes.
-This isn’t a small effect — it changes the apparent size of the introspection gap.
+This is a material effect that changes the apparent size of the introspection gap.
 
 ![Probe comparison.](/fig31_probe_comparison.png)
 

@@ -7,7 +7,7 @@ tags: ["interpretability", "activation-steering", "alignment", "safety"]
 
 ## The simple idea
 If you nudge a model into a state, you should be able to ask it what state it’s in.
-That seems obvious — but it isn’t always true.
+That seems obvious, but it isn’t always true.
 
 Here’s the surprising result: the model behaves *as if* it feels something, while
 reporting *zero* when asked directly. Change the question’s framing, and the report
@@ -19,8 +19,8 @@ Then we measure two things:
 - Behavior shift: does the output text change in the expected direction?
 - Self‑report: does the model say it feels that emotion?
 
-This keeps the test simple: same model, same input, same steering — only the
-*question wording* changes.
+This keeps the test simple: same model, same input, same steering, only the
+question wording changes.
 
 ## The surprise
 Under direct self‑report, the model says **0.0** anger.

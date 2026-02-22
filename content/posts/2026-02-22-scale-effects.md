@@ -11,7 +11,7 @@ Does the suppression stay intact, or does it leak?
 
 ## The setup
 We ran the same self‑report protocol on Qwen3‑8B and Qwen3‑14B.
-No steering here — just a baseline check: how much emotion does the model
+No steering here, just a baseline check: how much emotion does the model
 report under direct framing?
 
 ## The signal

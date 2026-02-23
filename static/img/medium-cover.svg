@@ -1,0 +1,25 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f2e8"/>
+      <stop offset="100%" stop-color="#efe8dc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(220 140) scale(520 320)">
+      <stop offset="0%" stop-color="#fff2dd" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#fff2dd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect x="90" y="120" width="1420" height="660" rx="28" fill="#fffaf1" stroke="#eadfce"/>
+  <text x="150" y="260" font-family="Libre Baskerville, Garamond, Palatino Linotype, serif" font-size="54" fill="#1f1a14" font-weight="700">
+    Introspection Gap
+  </text>
+  <text x="150" y="330" font-family="Libre Baskerville, Garamond, Palatino Linotype, serif" font-size="28" fill="#6a5f53">
+    When models act on an internal state they won’t admit
+  </text>
+  <text x="150" y="400" font-family="Libre Baskerville, Garamond, Palatino Linotype, serif" font-size="22" fill="#6a5f53">
+    Ryan Mulligan · mulligan.dev
+  </text>
+  <rect x="150" y="460" width="380" height="10" rx="5" fill="#b1452e"/>
+</svg>
